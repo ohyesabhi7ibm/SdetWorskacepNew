@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5436" started-at="2022-02-21T05:32:13Z" finished-at="2022-02-21T05:32:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5436" started-at="2022-02-21T05:32:13Z" finished-at="2022-02-21T05:32:18Z">
+      <class name="ListOfMethods">
+        <test-method status="PASS" signature="getMethod()[pri:0, instance:ListOfMethods@3bbc39f8]" name="getMethod" duration-ms="4816" started-at="2022-02-21T11:02:13Z" finished-at="2022-02-21T11:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+        <test-method status="PASS" signature="getMethod2()[pri:0, instance:ListOfMethods@3bbc39f8]" name="getMethod2" duration-ms="480" started-at="2022-02-21T11:02:18Z" finished-at="2022-02-21T11:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod2 -->
+      </class> <!-- ListOfMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
